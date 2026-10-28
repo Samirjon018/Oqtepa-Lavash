@@ -27,6 +27,7 @@ Ushbu loyiha Oqtepa Lavash tez ovqatlanish shoxobchasining veb-sayti dizayni va 
  + - **Moslashuvchan dizayn (Responsive):** Har xil turdagi ekranlarga moslashtirilgan interfeys.
 
 ## 🛠 Ishlatilgan texnologiyalar
+-
 * **HTML5** — Sahifa strukturasi uchun
 * **CSS3** — Stilizatsiya va dizayn uchun
 
