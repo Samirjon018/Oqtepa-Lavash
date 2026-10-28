@@ -19,15 +19,13 @@ Ushbu loyiha Oqtepa Lavash tez ovqatlanish shoxobchasining veb-sayti dizayni va 
 
  <img src="oqtepa.png">
 
-
-
 ## ✨ Asosiy xususiyatlar
 
-- **Navigatsiya va Header:** Hududni tanlash, tilni o'zgartirish (UZ), yetkazib berish turini tanlash va qidiruv paneli.
-- **Bannerlar slayderi:** Joriy aksiya va chegirmalar aks etuvchi asosiy banner qismi.
-- **Chap Katalog menyusi:** "Aksiyalar", "Wyгодные сеты", "Lavash", "Burgerlar", "Donar" va boshqa turkumlar bo'yicha qulay filtrlash.
-- **Mahsulotlar kartochkasi:** Mahsulot rasmi, narxi (eskirgan va chegirmadagi narxlar taqqoslanyapti) hamda "Qo'shish" tugmasi.
-- **Moslashuvchan dizayn (Responsive):** Har xil turdagi ekranlarga moslashtirilgan interfeys.
+ - **Navigatsiya va Header:** Hududni tanlash, tilni o'zgartirish (UZ), yetkazib berish turini tanlash va qidiruv paneli.
+ - **Bannerlar slayderi:** Joriy aksiya va chegirmalar aks etuvchi asosiy banner qismi.
+ - **Chap Katalog menyusi:** "Aksiyalar", "Wyгодные сеты", "Lavash", "Burgerlar", "Donar" va boshqa turkumlar bo'yicha qulay filtrlash.
+ - **Mahsulotlar kartochkasi:** Mahsulot rasmi, narxi (eskirgan va chegirmadagi narxlar taqqoslanyapti) hamda "Qo'shish" tugmasi.
+ - **Moslashuvchan dizayn (Responsive):** Har xil turdagi ekranlarga moslashtirilgan interfeys.
 
 ## 🛠 Ishlatilgan texnologiyalar
 
