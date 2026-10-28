@@ -1,0 +1,272 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.head {
+    width: 100%;
+    height: 100px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.text {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+}
+span img {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+}
+
+span a {
+    font-size: 14px;
+    text-decoration: none;
+    color: #ff7206;
+    text-transform: uppercase;
+    margin-left: 40px;
+}
+
+span a:hover {
+    color: #ff7206;
+    text-decoration: underline;
+}
+
+select {
+    margin-left: 40px;
+    margin-top: -90px;
+}
+span select {
+    font-size: 14px;
+    padding: 5px;
+    border: none;
+    margin-left: 40px;
+    transform: translateY(-100%);
+}
+
+.head button {
+    background-color: #ffa406;
+    color: black;
+    border: none;
+    padding: 10px 50px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 40px;
+    border-radius: 5px;
+}
+.head button:hover {
+    background-color: #b95508;
+    color: rgb(0, 0, 0);
+}
+
+input {
+    border-radius: 5px;
+    width: 870px;
+    padding: 10px;
+    font-size: 19px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:black;
+    margin-left: 250px;
+    
+}
+
+.Savat  {
+    width: 230px;
+    color: white;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 50px;
+    padding: 4px;
+    border-radius: 5px;
+    background-color: rgb(193, 35, 35);
+    transform: translateX(1200px);
+    margin-top: -50px;
+}
+
+.continer{
+    display: flex;
+    gap: 20px;
+}
+
+.continer img {
+    width: 600px;
+    height: 300px;
+    border: solid 1px black;
+    margin-top: 50px;
+    border-radius: 10px;
+    transform: translateX(150px);
+}
+
+.banner-2 img {
+    width: 600px;
+    height: 300px;
+    border: solid 1px black;
+    margin-top: 40px;
+    transform: translateX(150px);
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.katalog {
+    width: 300px;
+    height: 700px;
+    border: solid 1px black;
+    border-radius: 5px;
+    text-align: center;
+     transform: translateX(30px);
+     margin-top: -80px;
+  
+}
+
+.panel{
+  padding: 7px;
+  color: white;
+  background-color:  rgb(193, 35, 35);
+  font-size: 25px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+
+.katalog-btn {
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(237, 223, 223);
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.Savat:hover {
+    background-color: rgb(146, 13, 13);
+}
+
+p {
+    margin-top: 40px;
+    margin-bottom: 70px;
+    font-size: 20px;
+    font-weight: bold;
+   
+}
+a {
+    color: black;
+ text-decoration: none;
+}
+
+a:hover {
+    color: #333;
+ text-decoration: underline;
+}
+
+.center-continer {
+    margin-top: 60px;
+    font-size: 30px;
+    transform: translateX(370px);
+}
+
+.card {
+    border-radius: 15px;
+    width: 390px;
+    height: 500px;
+    border: white 2px;
+    box-shadow: rgb(103, 99, 99) 0 5px 5px 5px;
+    margin-left: 340px;
+    transform: translateY(-110%);
+    
+}
+.card img {
+    width: 370px;
+    height: 330px;
+}
+
+.card p {
+   margin-left: 10px;
+    transform: translateY(-200%);
+}
+
+.card h1 {
+    color: brown;
+     margin-left: 10px;
+    transform: translateY(-200%);
+}
+.card h3 {
+    color: rgb(54, 47, 47);
+     margin-left: 100px;
+    transform: translateY(-370%);
+    font-size: 25px;
+}
+
+.card button {
+    background-color: white;
+    color: rgb(49, 46, 46);
+    border: solid 2px orange;
+    padding: 10px 130px;
+    font-size: 16px;
+    margin-left: 40px;
+    border-radius: 5px;
+     transform: translateY(-200%);
+}
+
+.card button:hover {
+   background-color: rgb(255, 221, 183);
+}
+
+.card-2 {
+    border-radius: 15px;
+    width: 390px;
+    height: 500px;
+    border: white 2px;
+    box-shadow: rgb(103, 99, 99) 0 5px 5px 5px;
+    margin-left: 405px;
+    transform: translateY(-115%);
+}
+
+.card-3 {
+    border-radius: 15px;
+    width: 390px;
+    height: 500px;
+    border: white 2px;
+    box-shadow: rgb(103, 99, 99) 0 5px 5px 5px;
+    margin-left: 809px;
+    transform: translateY(-215%);
+}
+
+.katalog div p:hover {
+    width: 300px;
+    padding: 5px;
+    border-radius: 20px;
+    background: rgb(229, 223, 223) ;
+    text-decoration: aliceblue;
+}
+
+.card-4 {
+    border-radius: 15px;
+    width: 390px;
+    height: 500px;
+    border: white 2px;
+    box-shadow: rgb(103, 99, 99) 0 5px 5px 5px;
+    transform: translateY(-190%);
+}
+
+.card-5 {
+    border-radius: 15px;
+    width: 390px;
+    height: 500px;
+    border: white 2px;
+    box-shadow: rgb(103, 99, 99) 0 5px 5px 5px;
+    margin-left: 405px;
+    transform: translateY(-290%);
+}
+
+.card-6 {
+    border-radius: 15px;
+    width: 390px;
+    height: 500px;
+    border: white 2px;
+    box-shadow: rgb(103, 99, 99) 0 5px 5px 5px;
+    margin-left: 809px;
+    transform: translateY(-390%);
+}
+
